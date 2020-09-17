@@ -14,8 +14,8 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+Found a security loophole?
+<!--Add templates here-->
+Consider making reporting it with an Issue & opening a PR. 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If that's not possible, consider dropping an email at [somraj.mle@gmail.com](mailto:somraj.mle@gmail.com?subject=I%20Found%20A%20Bug!). Make sure to include enough proofs about the vulnerability with screenshots if possible, the OS you're using, etc.
